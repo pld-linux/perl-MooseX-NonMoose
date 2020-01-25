@@ -4,7 +4,6 @@
 
 %define		pdir	MooseX
 %define		pnam	NonMoose
-%include	/usr/lib/rpm/macros.perl
 Summary:	MooseX::NonMoose - easy subclassing of non-Moose classes
 Name:		perl-MooseX-NonMoose
 Version:	0.22
